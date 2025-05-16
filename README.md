@@ -8,7 +8,7 @@ This project is a simple implementation of a **Login and Signup system** using t
 
 The application follows the MVC architecture:
 
-- **Model**: Handles the data and business logic.
+- **Model**: Handles the data.
 - **View**: Contains the UI components (console-based or GUI depending on implementation).
 - **Controller**: Manages user input, updates the model, and updates the view.
 - **DAO (Data Access Object)**: Separates the persistence logic and uses JDBC to interact with the database.
