@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/sangyakoirala/NetBeansProjects/DemoProject/src/demoproject/DemoProject.java</file>
+            <file>file:/Users/sangyakoirala/NetBeansProjects/DemoProject/src/demoproject/controller/EntryController.java</file>
+            <file>file:/Users/sangyakoirala/NetBeansProjects/DemoProject/src/demoproject/view/LoginView.java</file>
+            <file>file:/Users/sangyakoirala/NetBeansProjects/DemoProject/src/demoproject/view/RegistrationView.java</file>
+            <file>file:/Users/sangyakoirala/NetBeansProjects/DemoProject/src/demoproject/controller/RegistrationController.java</file>
+            <file>file:/Users/sangyakoirala/NetBeansProjects/DemoProject/src/demoproject/view/EntryView.java</file>
+            <file>file:/Users/sangyakoirala/NetBeansProjects/DemoProject/src/demoproject/controller/LoginController.java</file>
+            <file>file:/Users/sangyakoirala/NetBeansProjects/DemoProject/src/demoproject/dao/UserDao.java</file>
+            <file>file:/Users/sangyakoirala/NetBeansProjects/DemoProject/src/demoproject/model/UserData.java</file>
+        </group>
+    </open-files>
+</project-private>
